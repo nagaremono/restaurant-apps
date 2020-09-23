@@ -1,0 +1,7 @@
+node_modules
+dist
+public
+.firebaserc
+firebase.json
+.firebase
+src/scripts/globals/config.js
